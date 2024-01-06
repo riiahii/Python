@@ -1,8 +1,7 @@
 """
 Projekti graafinen käyttöliittymä: Mene kalaan! -peli
 Tekijät: Anna Koskinen ja Riia Hiironniemi
-Opiskelijanumerot: 150185079, 150271556
-Sähköpostit: anna.i.koskinen@tuni.fi, riia.hiironniemi@tuni.fi
+
 Saimme insipiraation projektiin lempipelistämme Littlest PetShop Go Fish!
 korttipelistä. Pelissä kerätään neljän kortin muodostamia "perheitä" kysymällä
 vuorotellen vastustajalta tietyn numeroista korttia. Jos vastapelaajalla ei ole
