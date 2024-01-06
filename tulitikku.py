@@ -1,8 +1,9 @@
 """
-Tulitikkupeli
+Game of Sticks
 COMP.CS.100
 Riia Hiironniemi
-150271556
+A code for a game called "Game of Sticks". There are first 21 sticks and two players remove 1-3 sticks at a time. One who
+removes the last stick is the loser.
 """
 def main():
         print("Game of sticks")
