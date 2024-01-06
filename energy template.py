@@ -1,11 +1,7 @@
 """
 COMP.CS.100 Ohjelmointi 1 / Programming 1
 Name:       Riia Hiironniemi
-Email:      riia.hiironniemi@tuni.fi
-Student Id: 150271556
 Name:       Roope Hiironniemi
-Email:      roope.hiironniemi@tuni.fi
-Student Id: 050280838
 Energiankulutushistogrammi
 """
 
