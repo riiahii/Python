@@ -1,5 +1,5 @@
 """
-150271556 Riia Hiironniemi
+Riia Hiironniemi
 COMP.CS.100
 Murtolukulista
 """
