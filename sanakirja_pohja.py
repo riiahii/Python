@@ -1,7 +1,7 @@
 """
 COMP.CS.100 Programming 1
-150271556 Riia Hiironniemi
-Code template for  tourist dictionary.
+Riia Hiironniemi
+Tourist dictionary.
 """
 
 
