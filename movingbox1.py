@@ -1,10 +1,6 @@
 """
 COMP.CS.100 Ohjelmointi 1 / Programming 1
-Student Id: 150185079   150271556
 Name:       Anna Koskinen   Riia Hiironniemi
-Email:      anna.i.koskinen@tuni.fi riia.hiironniemi@tuni.fi
-
-Program description goes here...
 """
 
 
